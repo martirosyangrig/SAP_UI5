@@ -5,7 +5,7 @@
         <content>
             <Button 
                 id="helloDialogButton" 
-                text="{i18n>opneDialogButtonText}" 
+                text="{i18n>openDialogButtonText}" 
                 press=".onOpenDialog" 
                 class="sapUiSmallMarginEnd" 
             />
